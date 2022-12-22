@@ -1,10 +1,10 @@
 # Week 1: Introduction
 
-* - [ ] Lecture: [slides](./lecture_hse.pdf) (en), [video](https://disk.yandex.ru/i/y7pEVuEIoLlTGg) (ru)
-* - [ ] Seminar: [link](./seminar.ipynb) (en), [video](https://disk.yandex.ru/i/0QLtiSHzHkAxzg) (ru)
+* - [x] Lecture: [slides](./lecture_hse.pdf) (en), [video](https://disk.yandex.ru/i/y7pEVuEIoLlTGg) (ru)
+* - [x] Seminar: [link](./seminar.ipynb) (en), [video](https://disk.yandex.ru/i/0QLtiSHzHkAxzg) (ru)
 
 ## Further reading
-* - [ ] [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html) and [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
+* - [x] [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html) and [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/index.html)
 * - [ ] [PyTorch Performance Tuning Guide](https://pytorch.org/tutorials/recipes/recipes/tuning_guide.html)
 * - [ ] [Earlier version of this guide from NVIDIA](https://tigress-web.princeton.edu/~jdh4/PyTorchPerformanceTuningGuide_GTC2021.pdf)
 * - [ ] [Docs for caching memory allocation in PyTorch](https://pytorch.org/docs/stable/notes/cuda.html#cuda-memory-management)
